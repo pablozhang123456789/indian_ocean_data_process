@@ -1,0 +1,17 @@
+name: for_zarr  
+channels:
+  - conda-forge  
+dependencies:
+  - python=3.12  
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - xarray
+  - xeofs
+  - zarr
+  - netcdf4
+  - pyqt
+  - ipykernel
+  - dask
+  - cartopy

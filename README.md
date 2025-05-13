@@ -9,3 +9,5 @@ share some codes
 * `AVISO_SLA_through_cdsapi` 利用cdsapi下载数据(数据质量有点烂)
 * `AVISO_SLA_through_copernicusmarine` 利用copernicusmarine下载数据
 * `compare_AVISO_model_SLA` 两种数据的质量对比(相关，平均态，气候态等)
+* `cut_model_variables` 数据整合与高效存储(zarr)
+* `for_zarr` zarr环境信息
